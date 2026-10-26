@@ -73,6 +73,7 @@ sql(f"UPDATE users SET default_testproject_id={PID} WHERE login IN ('admin','{AU
 call("setUserRoleOnProject", userid=int(sql(f"SELECT id FROM users WHERE login='{AUTHOR}'")[0][0]),
      rolename="senior tester", testprojectid=PID)
 for member in roster():
+    ensure_user(member['login'], member['name'])
     uid = int(sql(f"SELECT id FROM users WHERE login='{member['login']}'")[0][0])
     call('setUserRoleOnProject', userid=uid, rolename='senior tester', testprojectid=PID)
 print("project", PID)
