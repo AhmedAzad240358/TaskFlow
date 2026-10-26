@@ -1,0 +1,14 @@
+{
+  "Aland_TestLink_Test_Case_Report.pdf": {
+    "pages": 49,
+    "distinct_case_ids": 43,
+    "distinct_requirement_ids": 14,
+    "page_number_on_last_page": true
+  },
+  "Aland_Test_Basis_Requirements.pdf": {
+    "pages": 8,
+    "distinct_case_ids": 43,
+    "distinct_requirement_ids": 14,
+    "page_number_on_last_page": true
+  }
+}

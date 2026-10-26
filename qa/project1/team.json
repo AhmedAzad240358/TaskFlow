@@ -1,0 +1,7 @@
+[
+  {"slot":1,"letter":"A","login":"aland","name":"Aland Karwan","area":"Creation and text validation"},
+  {"slot":2,"letter":"B","login":"member2","name":"Member 2","area":"Editing and deletion"},
+  {"slot":3,"letter":"C","login":"member3","name":"Member 3","area":"Status, priority, calendar dates and summary counts"},
+  {"slot":4,"letter":"D","login":"member4","name":"Member 4","area":"Search, filters, sorting and filtered empty states"},
+  {"slot":5,"letter":"E","login":"member5","name":"Member 5","area":"Storage recovery, navigation, responsive layout and accessibility"}
+]

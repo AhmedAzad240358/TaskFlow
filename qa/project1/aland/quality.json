@@ -1,0 +1,17 @@
+{
+  "author": "aland",
+  "letter": "A",
+  "specifications": 1,
+  "requirements": 14,
+  "suites": 3,
+  "test_cases": 43,
+  "covered_requirements": 14,
+  "coverage_percent": 100,
+  "database_cases": 43,
+  "database_steps": 149,
+  "database_requirement_links": 95,
+  "actual_db_mapping_matches_design": true,
+  "all_cases_authored_by": "aland",
+  "all_cases_in_plan": true,
+  "execution_results_total": 0
+}
